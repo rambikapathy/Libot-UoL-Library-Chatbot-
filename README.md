@@ -1,5 +1,5 @@
-# TSE003
-TSE assignment 003
+# QnA chatbot (University of Lincoln Library) 
+QnA chatbot (University of Lincoln Library) 
 
 This repositry contains both old sample code and up to date versions of the LiBot chatbot.
 
