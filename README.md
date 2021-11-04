@@ -1,5 +1,5 @@
-# TSE003
-TSE assignment 003
+# UoL Chatbot
+UoL Chatbot
 
 This repositry contains both old sample code and up to date versions of the LiBot chatbot.
 
